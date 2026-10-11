@@ -82,7 +82,8 @@ Full topology, addressing plan, step-by-step configuration, and device configs a
 </td>
 <td width="45%">
 
-<img src="https://raw.githubusercontent.com/RevanAnugrah/REPO-NAME/main/images/topologi-diagram.png" alt="Network topology" width="100%">
+![Uploading {C7B2572B-F599-4693-B2FE-BF0BB9333831}.png…]()
+
 <!-- TODO: replace REPO-NAME here too -->
 
 </td>

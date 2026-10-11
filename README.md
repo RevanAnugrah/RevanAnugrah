@@ -81,8 +81,8 @@ Full topology, addressing plan, step-by-step configuration, and device configs a
 
 </td>
 <td width="45%">
+<img width="954" height="352" alt="{C7B2572B-F599-4693-B2FE-BF0BB9333831}" src="https://github.com/user-attachments/assets/9ca692cb-b1c2-4fcd-b666-9fbef061a8cd" />
 
-![Uploading {C7B2572B-F599-4693-B2FE-BF0BB9333831}.png…]()
 
 <!-- TODO: replace REPO-NAME here too -->
 

@@ -76,8 +76,7 @@ A Cisco Packet Tracer simulation of two buildings connected by a **ring of 4 rou
 
 Full topology, addressing plan, step-by-step configuration, and device configs are in the repo.
 
-[![View Project](https://img.shields.io/badge/View%20Project-1F6FB2?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/RevanAnugrah/network-simulation-vlan-ripv2-voip)]
-<!-- TODO: replace REPO-NAME with your real repository name -->
+[![View Project](https://img.shields.io/badge/View%20Project-1F6FB2?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/RevanAnugrah/network-simulation-vlan-ripv2-voip)
 
 </td>
 <td width="45%">

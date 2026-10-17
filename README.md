@@ -77,13 +77,12 @@ A Cisco Packet Tracer simulation of **three buildings (Gedung A, B, and C)** con
 
 Full topology, subnet plan, step-by-step configuration guide, and CLI scripts are available in the repo.
 
-[![<img width="951" height="353" alt="676490049-8fd5f45c-221e-4322-848d-4bfb43a12705" src="https://github.com/user-attachments/assets/cf8a2981-4cfb-4d82-ad2a-883934125e01" />](https://img.shields.io/badge/View%20Project-1F6FB2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RevanAnugrah/cisco-roas-ospf-aaa-simulation)
+[![View Project](https://img.shields.io/badge/View%20Project-1F6FB2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RevanAnugrah/cisco-roas-ospf-aaa-simulation)
 
 </td>
 <td width="45%">
 
-<!-- Ganti URL src di bawah dengan link gambar topologi 3 gedung kamu di GitHub -->
-<img width="944" alt="Three-Building OSPF Topology" src="https://raw.githubusercontent.com/RevanAnugrah/cisco-roas-ospf-aaa-simulation/main/images/topologi.png" />
+<img width="951" height="353" alt="Three-Building OSPF Topology" src="https://github.com/user-attachments/assets/cf8a2981-4cfb-4d82-ad2a-883934125e01" />
 
 </td>
 </tr>
@@ -107,6 +106,7 @@ Full topology, addressing plan, step-by-step configuration, and device configs a
 
 </td>
 <td width="45%">
+
 <img width="944" height="345" alt="Two-Building RIPv2 Topology" src="https://github.com/user-attachments/assets/2f0f9e16-aa7a-489b-bd31-7554a6279ae1" />
 
 </td>

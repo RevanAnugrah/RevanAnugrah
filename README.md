@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1220,100:1F6FB2&height=200&section=header&text=Revan%20Anugrah%20Wibowo&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Network%20Engineer&descSize=20&descAlignY=60" width="100%" alt="Header">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=1F6FB2&center=true&vCenter=true&width=620&lines=Halo!+I'm+Revan+%F0%9F%91%8B;TJKT+Student+%7C+SMKN+3+Kota+Tangerang;Routing+%C2%B7+VLAN+%C2%B7+Linux+Server+%C2%B7+Proxmox;Building+networks%2C+one+topology+at+a+time)](https://github.com/RevanAnugrah)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=1F6FB2&center=true&vCenter=true&width=620&lines=Halo!+I'm+Revan+%F0%9F%91%8B;TJKT+Student+%7C+SMKN+3+Kota+Tangerang;OSPF+%C2%B7+RIPv2+%C2%B7+VLAN+%C2%B7+Linux+Server+%C2%B7+Proxmox;Building+networks%2C+one+topology+at+a+time)](https://github.com/RevanAnugrah)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/revan-anugrah-wibowo/)
 ![Location](https://img.shields.io/badge/Kota%20Tangerang-Indonesia-red?style=for-the-badge&logo=googlemaps&logoColor=white)
@@ -16,7 +16,7 @@
 
 I'm a **TJKT (Teknik Jaringan Komputer dan Telekomunikasi) student** at **SMKN 3 Kota Tangerang**, passionate about building and troubleshooting network infrastructure.
 
-- 🌐 I design multi-building networks in **Cisco Packet Tracer** (VLAN, RIPv2, DHCP, ACL, VoIP)
+- 🌐 I design multi-building networks in **Cisco Packet Tracer** (VLAN, OSPF, RIPv2, AAA, DHCP, ACL, VoIP)
 - 🐧 I'm learning **Linux server administration** and **virtualization with Proxmox**
 - 🖥️ I'm exploring **web hosting panels** and monitoring tools
 - 💻 I'm picking up **front-end basics** (HTML, CSS, JavaScript)
@@ -29,8 +29,10 @@ I'm a **TJKT (Teknik Jaringan Komputer dan Telekomunikasi) student** at **SMKN 3
 **Networking**
 
 ![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![VLAN](https://img.shields.io/badge/VLAN%20%26%20Trunking-2E9E6B?style=for-the-badge)
+![OSPF](https://img.shields.io/badge/Routing-OSPF-10B981?style=for-the-badge)
 ![RIPv2](https://img.shields.io/badge/Routing-RIPv2-0A66C2?style=for-the-badge)
+![VLAN](https://img.shields.io/badge/VLAN%20%26%20Trunking-2E9E6B?style=for-the-badge)
+![AAA](https://img.shields.io/badge/AAA%20%2F%20RADIUS-EF4444?style=for-the-badge)
 ![ACL](https://img.shields.io/badge/ACL-D62828?style=for-the-badge)
 ![DHCP](https://img.shields.io/badge/DHCP%20%26%20DNS-8E44AD?style=for-the-badge)
 ![VoIP](https://img.shields.io/badge/VoIP-E8890C?style=for-the-badge)
@@ -57,13 +59,38 @@ I'm a **TJKT (Teknik Jaringan Komputer dan Telekomunikasi) student** at **SMKN 3
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="55%">
 
-### 🌐 Two-Building Enterprise Network
+### 🏢 Three-Building Enterprise Network (OSPF & AAA)
+
+A Cisco Packet Tracer simulation of **three buildings (Gedung A, B, and C)** connected in a redundant **triangle Serial WAN** topology.
+
+- 🛣️ **OSPF Area 0** dynamic routing with automatic failover
+- 🧩 **3 VLANs (50, 70, 100)** with 802.1Q Router-on-a-Stick
+- 🔐 **AAA Server (RADIUS)** & local fallback authentication
+- 📶 **Wireless LAN** for smartphones & laptops via AP
+- 🗂️ **DHCP Pools** per VLAN & centralized Server/Printer zone
+
+Full topology, subnet plan, step-by-step configuration guide, and CLI scripts are available in the repo.
+
+[![View Project](https://img.shields.io/badge/View%20Project-1F6FB2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RevanAnugrah/cisco-roas-ospf-aaa-simulation)
+
+</td>
+<td width="45%">
+
+<!-- Ganti URL src di bawah dengan link gambar topologi 3 gedung kamu di GitHub -->
+<img width="944" alt="Three-Building OSPF Topology" src="https://raw.githubusercontent.com/RevanAnugrah/cisco-roas-ospf-aaa-simulation/main/images/topologi.png" />
+
+</td>
+</tr>
+<tr>
+<td width="55%">
+
+### 🌐 Two-Building Enterprise Network (RIPv2 & VoIP)
 
 A Cisco Packet Tracer simulation of two buildings connected by a **ring of 4 routers**.
 
@@ -76,14 +103,11 @@ A Cisco Packet Tracer simulation of two buildings connected by a **ring of 4 rou
 
 Full topology, addressing plan, step-by-step configuration, and device configs are in the repo.
 
-[![View Project](https://img.shields.io/badge/View%20Project-1F6FB2?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/RevanAnugrah/network-simulation-vlan-ripv2-voip)
+[![View Project](https://img.shields.io/badge/View%20Project-1F6FB2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RevanAnugrah/network-simulation-vlan-ripv2-voip)
 
 </td>
 <td width="45%">
-<img width="944" height="345" alt="{D18186E4-78AD-477F-B413-D2E4D8BC45C9}" src="https://github.com/user-attachments/assets/2f0f9e16-aa7a-489b-bd31-7554a6279ae1" />
-
-
-<!-- TODO: replace REPO-NAME here too -->
+<img width="944" height="345" alt="Two-Building RIPv2 Topology" src="https://github.com/user-attachments/assets/2f0f9e16-aa7a-489b-bd31-7554a6279ae1" />
 
 </td>
 </tr>
@@ -106,11 +130,11 @@ Full topology, addressing plan, step-by-step configuration, and device configs a
 
 | Topic | Focus |
 |-------|-------|
-| 🔀 **Routing** | BGP and more advanced routing |
+| 🔀 **Routing** | OSPF multi-area, BGP, and advanced routing |
 | 🐧 **Linux** | Server setup, services, and security |
 | 🖥️ **Virtualization** | Proxmox containers and VMs |
 | 📈 **Monitoring** | Zabbix for servers and networks |
-| 🏅 **Certification** | Cisco networking path  |
+| 🏅 **Certification** | Cisco networking path |
 
 ---
 

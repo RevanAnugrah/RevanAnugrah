@@ -1,4 +1,3 @@
-<img width="951" height="353" alt="676490049-8fd5f45c-221e-4322-848d-4bfb43a12705" src="https://github.com/user-attachments/assets/cf8a2981-4cfb-4d82-ad2a-883934125e01" />
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1220,100:1F6FB2&height=200&section=header&text=Revan%20Anugrah%20Wibowo&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Network%20Engineer&descSize=20&descAlignY=60" width="100%" alt="Header">
@@ -78,7 +77,7 @@ A Cisco Packet Tracer simulation of **three buildings (Gedung A, B, and C)** con
 
 Full topology, subnet plan, step-by-step configuration guide, and CLI scripts are available in the repo.
 
-[![View Project](https://img.shields.io/badge/View%20Project-1F6FB2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RevanAnugrah/cisco-roas-ospf-aaa-simulation)
+[![<img width="951" height="353" alt="676490049-8fd5f45c-221e-4322-848d-4bfb43a12705" src="https://github.com/user-attachments/assets/cf8a2981-4cfb-4d82-ad2a-883934125e01" />](https://img.shields.io/badge/View%20Project-1F6FB2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RevanAnugrah/cisco-roas-ospf-aaa-simulation)
 
 </td>
 <td width="45%">

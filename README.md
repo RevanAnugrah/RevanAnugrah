@@ -1,3 +1,4 @@
+<img width="951" height="353" alt="676490049-8fd5f45c-221e-4322-848d-4bfb43a12705" src="https://github.com/user-attachments/assets/cf8a2981-4cfb-4d82-ad2a-883934125e01" />
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1220,100:1F6FB2&height=200&section=header&text=Revan%20Anugrah%20Wibowo&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Network%20Engineer&descSize=20&descAlignY=60" width="100%" alt="Header">

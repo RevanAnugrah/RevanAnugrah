@@ -1,49 +1,3 @@
-## 🔧 Penyebab & Perbaikan Error Gambar `GitHub stats`
-
-Ikon gambar pecah (*broken image*) bertuliskan **`GitHub stats`** tersebut muncul **bukan karena kesalahan penulisan kode Markdown kamu**, melainkan karena:
-
-1. **Server Publik `github-readme-stats.vercel.app` Sedang *Limit* / *Down*:** Layanan asli milik `anuraghazra` di alamat `https://github-readme-stats.vercel.app` sangat sering mengalami **503 Deployment Paused** atau **429 Too Many Requests** (kehabisan kuota API GitHub) karena digunakan oleh jutaan profil GitHub secara bersamaan. Saat server tersebut lambat merespons, proxy gambar GitHub (*Camo*) otomatis memutus koneksi dan menampilkan ikon gambar rusak.
-2. **Domain Heroku Streak Stats Sudah Pindah:** URL lama `github-readme-streak-stats.herokuapp.com` sering mengalami *timeout* karena layanannya kini telah dipindahkan secara resmi ke `https://streak-stats.demolab.com`.
-
----
-
-### ✅ Solusi Cepat (Pilih Salah Satu untuk Bagian `## 📊 GitHub Stats`)
-
-#### **Opsi 1: Menggunakan Mirror Cepat `github-readme-stats-fast` (Tampilan Sama Persis)**
-Ganti bagian `## 📊 GitHub Stats` di profil GitHub kamu dengan kode berikut:
-
-```html
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=RevanAnugrah&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-<img height="170" src="https://streak-stats.demolab.com/?user=RevanAnugrah&theme=tokyonight&hide_border=true" alt="GitHub streak">
-
-</div>
-```
-
-#### **Opsi 2: Menggunakan `github-profile-summary-cards` (Paling Stabil & Anti-Limit)**
-Jika sewaktu-waktu server Opsi 1 juga terkena antrean penuh, layanan `github-profile-summary-cards` jauh lebih stabil dan tetap mendukung tema `tokyonight`:
-
-```html
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RevanAnugrah&theme=tokyonight" alt="GitHub stats">
-<img height="170" src="https://streak-stats.demolab.com/?user=RevanAnugrah&theme=tokyonight&hide_border=true" alt="GitHub streak">
-
-</div>
-```
-
----
-
-## 📋 Kode Lengkap `README.md` Profil GitHub (Sudah Diperbaiki & Siap Copy-Paste)
-
-Salin seluruh blok kode di bawah ini dan tempelkan langsung ke file `README.md` pada repositori profil `RevanAnugrah/RevanAnugrah` kamu:
-
-```html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1220,100:1F6FB2&height=200&section=header&text=Revan%20Anugrah%20Wibowo&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Network%20Engineer&descSize=20&descAlignY=60" width="100%" alt="Header">
@@ -147,7 +101,7 @@ An end-to-end **LAN-to-LAN inter-branch network** simulated in **GNS3**, combini
 
 - 🤝 **Multi-Vendor Integration:** 2x `MikroTik CHR` as Layer 3 gateways + 2x `Cisco IOSvL2` as Layer 2 access switches
 - 🛣️ **Point-to-Point WAN & Static Routing:** bidirectional static routes connecting LAN 1 (`192.168.10.0/24`) and LAN 2 (`192.168.20.0/24`)
-- ⚡ **Hybrid Virtualization:** QEMU/KVM acceleration on VMware GNS3 VM paired with VirtualBox Linked Clones
+- ⚡ **Hybrid Virtualization:** KVM hardware acceleration on VMware GNS3 VM paired with VirtualBox Linked Clones
 - 📘 **Complete Lab Guide:** port mapping reference, full CLI scripts, and printable PDF module
 
 [![View Project](https://img.shields.io/badge/View%20Project-1F6FB2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RevanAnugrah)
@@ -246,4 +200,3 @@ I'm open to **internship (PKL) opportunities** and happy to talk about networkin
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FB2,100:0A1220&height=100&section=footer" width="100%" alt="Footer">
 
 </div>
-```

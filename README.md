@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1220,100:1F6FB2&height=200&section=header&text=Revan%20Anugrah%20Wibowo&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Network%20Engineer&descSize=20&descAlignY=60" width="100%" alt="Header">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=1F6FB2&center=true&vCenter=true&width=680&lines=Halo!+I'm+Revan+%F0%9F%91%8B;TJKT+Student+%7C+SMKN+3+Kota+Tangerang;GNS3+%C2%B7+MikroTik+CHR+%C2%B7+Cisco+IOS+%C2%B7+OSPF+%C2%B7+eBGP+%C2%B7+EIGRP;Linux+Server+%C2%B7+Proxmox+%C2%B7+VMware+%26+VirtualBox;Building+networks%2C+one+topology+at+a+time)](https://github.com/RevanAnugrah)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=1F6FB2&center=true&vCenter=true&width=680&lines=Halo!+I'm+Revan+%F0%9F%91%8B;TJKT+Student+%7C+SMKN+3+Kota+Tangerang;Cisco+IOS+%C2%B7+MikroTik+CHR+%C2%B7+GNS3+%C2%B7+Packet+Tracer;OSPF+%C2%B7+eBGP+%C2%B7+EIGRP+%C2%B7+RIPv2+%C2%B7+VLAN+%C2%B7+Linux+%C2%B7+Proxmox;Building+networks%2C+one+topology+at+a+time)](https://github.com/RevanAnugrah)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/revan-anugrah-wibowo/)
 ![Location](https://img.shields.io/badge/Kota%20Tangerang-Indonesia-red?style=for-the-badge&logo=googlemaps&logoColor=white)
@@ -29,16 +29,16 @@ I'm a **TJKT (Teknik Jaringan Komputer dan Telekomunikasi) student** at **SMKN 3
 **Networking & Routing**
 
 ![GNS3](https://img.shields.io/badge/GNS3-FF6C37?style=for-the-badge&logo=gns3&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Cisco IOSvL2](https://img.shields.io/badge/Cisco%20IOS%20%2F%20IOSvL2-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik%20RouterOS-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS%20%2F%20IOSvL2-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 ![OSPF](https://img.shields.io/badge/Routing-OSPF-10B981?style=for-the-badge)
 ![eBGP](https://img.shields.io/badge/Routing-eBGP-C0392B?style=for-the-badge)
 ![EIGRP](https://img.shields.io/badge/Routing-EIGRP-2E9E6B?style=for-the-badge)
 ![RIPv2](https://img.shields.io/badge/Routing-RIPv2-0A66C2?style=for-the-badge)
 ![Static Routing](https://img.shields.io/badge/Routing-Static%20Route-3B82F6?style=for-the-badge)
 ![VLAN](https://img.shields.io/badge/VLAN%20%26%20Trunking-2E9E6B?style=for-the-badge)
-![AAA](https://img.shields.io/badge/SSH%20%2F%20AAA%20RADIUS-EF4444?style=for-the-badge)
+![AAA](https://img.shields.io/badge/SSH%20%26%20AAA%20RADIUS-EF4444?style=for-the-badge)
 ![ACL](https://img.shields.io/badge/ACL-D62828?style=for-the-badge)
 ![DHCP](https://img.shields.io/badge/DHCP%20%26%20DNS-8E44AD?style=for-the-badge)
 ![VoIP](https://img.shields.io/badge/VoIP%20(CME)-E8890C?style=for-the-badge)
@@ -88,7 +88,7 @@ A multi-site campus and branch network simulation in **Cisco Packet Tracer** int
 </td>
 <td width="45%">
 
-<img width="955" height="346" alt="AetherNet Multi-Protocol Campus Topology" src="https://github.com/user-attachments/assets/62580bf6-b667-4457-b5a6-71b1c5419fdc" />
+<img width="955" height="346" alt="AetherNet Multi-Protocol Campus Network Topology" src="https://github.com/user-attachments/assets/62580bf6-b667-4457-b5a6-71b1c5419fdc" />
 
 </td>
 </tr>
@@ -109,7 +109,7 @@ An end-to-end **LAN-to-LAN inter-branch network** simulated in **GNS3**, combini
 </td>
 <td width="45%">
 
-<img width="705" height="584" alt="GNS3 Multi-Vendor Topology" src="https://github.com/user-attachments/assets/442e2650-6f74-4bdb-946b-4d027f837ce7" />
+<img width="705" height="584" alt="Multi-Vendor GNS3 Topology" src="https://github.com/user-attachments/assets/442e2650-6f74-4bdb-946b-4d027f837ce7" />
 
 </td>
 </tr>
@@ -170,8 +170,8 @@ Full topology, addressing plan, step-by-step configuration, and device configs a
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=RevanAnugrah&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-<img height="170" src="https://streak-stats.demolab.com/?user=RevanAnugrah&theme=tokyonight&hide_border=true" alt="GitHub streak">
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=RevanAnugrah&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+<img height="170" src="https://streak-stats.demolab.com?user=RevanAnugrah&theme=tokyonight&hide_border=true" alt="GitHub streak">
 
 </div>
 
